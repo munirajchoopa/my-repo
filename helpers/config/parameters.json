@@ -1,0 +1,9 @@
+{
+  "variables": {
+    "layers": {
+      "landing_zone": "data\\landing",
+      "cleansed_zone": "data\\cleansed",
+      "target_zone": "data\\target"
+    }
+  }
+}
